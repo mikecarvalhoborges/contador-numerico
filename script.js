@@ -13,6 +13,7 @@ btns.forEach(funcion (btn) {
         }
         else if (styles.contains("increase")) {
             count++
+        }
         else {
             count = 0
         }
